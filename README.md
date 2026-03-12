@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Aging Challenge: Face Recognition Benchmark Under Cross-Age Variation
 
 Companion code for the paper:
@@ -244,3 +245,6 @@ If you use this code or find this work useful in your research, please cite:
   year   = {2026},
   note   = {Paper link coming soon}
 }
+=======
+# cross-age-face-recognition-benchmark
+>>>>>>> c3c1a2cd3881231cd8d0f8b5052a59cc1248c68b
