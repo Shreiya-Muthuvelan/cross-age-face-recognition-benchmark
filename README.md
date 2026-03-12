@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # The Aging Challenge: Face Recognition Benchmark Under Cross-Age Variation
 
 Companion code for the paper:
@@ -9,12 +9,12 @@ Companion code for the paper:
 Benchmarks four baseline face recognition models — **ArcFace, FaceNet, VGGFace, OpenFace** — on age-variant datasets (**CACD** and **FG-NET**) using closed-set identification and subject-disjoint verification protocols.
 
 ---
-## ## Paper
+## Paper
 
 The research paper associated with this repository is currently not publicly available.  
 The link will be added here once the paper becomes available.
 
-[Read the Paper](paper/paper.pdf)
+[Read the Paper](paper/Performance Evaluation of Baseline FR Models.pdf)
 
 ## Repository Structure
 
@@ -62,7 +62,7 @@ face-aging-benchmark/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/face-aging-benchmark.git
+git clone https://github.com/Shreiya-Muthuvelan/cross-age-face-recognition-benchmark.git
 cd face-aging-benchmark
 ```
 
@@ -156,10 +156,6 @@ data/embeddings/<model>/<dataset>/
 Extraction **resumes automatically** if interrupted — already-processed images
 are skipped.
 
-> **Expected runtimes** (approximate, CPU):  
-> FG-NET (1 002 images × 4 models) ≈ 30–60 min  
-> CACD (152 948 images × 4 models) ≈ several hours
-
 ### Step 5a — Identification evaluation
 
 ```bash
@@ -227,10 +223,10 @@ Age bins: `0–11`, `12–17`, `18–29`, `30–44`, `45–59`, `60+`
 
 ## Datasets
 
-| Dataset | Images | Subjects | Age range |
-|---|---|---|---|
-| [FG-NET](https://www.kaggle.com/datasets/aiolapo/fgnet-dataset) | 1 002 | 82 | 0–69 years |
-| [CACD (filtered)](https://www.kaggle.com/datasets/pdombrza/cacd-filtered-dataset) | 152 948 | 2 000 | celebrity dataset |
+| Dataset | Images | Subjects |
+|---|---|---|
+| [FG-NET](https://www.kaggle.com/datasets/aiolapo/fgnet-dataset) | 1002 | 82 |
+| [CACD (filtered)](https://www.kaggle.com/datasets/pdombrza/cacd-filtered-dataset) | 152 948 | 2000 | 
 
 ---
 
@@ -246,5 +242,3 @@ If you use this code or find this work useful in your research, please cite:
   note   = {Paper link coming soon}
 }
 =======
-# cross-age-face-recognition-benchmark
->>>>>>> c3c1a2cd3881231cd8d0f8b5052a59cc1248c68b
