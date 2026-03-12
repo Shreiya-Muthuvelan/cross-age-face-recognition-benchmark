@@ -14,7 +14,7 @@ Benchmarks four baseline face recognition models — **ArcFace, FaceNet, VGGFace
 The research paper associated with this repository is currently not publicly available.  
 The link will be added here once the paper becomes available.
 
-[Read the Paper](paper/Performance Evaluation of Baseline FR Models.pdf)
+[Read the Paper](paper/paper.pdf)
 
 ## Repository Structure
 
