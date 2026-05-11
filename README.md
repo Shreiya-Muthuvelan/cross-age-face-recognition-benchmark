@@ -11,10 +11,13 @@ Benchmarks four baseline face recognition models — **ArcFace, FaceNet, VGGFace
 ---
 ## Paper
 
-The research paper associated with this repository is currently not publicly available.  
-The link will be added here once the paper becomes available.
+The research paper associated with this repository is published on IEEE Xplore:
 
-[Read the Paper](paper/paper.pdf)
+🔗 [https://ieeexplore.ieee.org/document/11493262](https://ieeexplore.ieee.org/document/11493262)
+
+**DOI:** 10.1109/ESCI68015.2026.11493262
+
+
 
 ## Repository Structure
 
@@ -235,9 +238,13 @@ Age bins: `0–11`, `12–17`, `18–29`, `30–44`, `45–59`, `60+`
 If you use this code or find this work useful in your research, please cite:
 
 ```bibtex
-@inproceedings{muthuvelan2026aging,
-  title  = {The Aging Challenge: A Performance Evaluation on Baseline Face Recognition Models Under Cross Age Variation},
-  author = {Muthuvelan, Shreiya Ramaswamy and Maneesha},
-  year   = {2026},
-  note   = {Paper link coming soon}
-}
+@INPROCEEDINGS{11493262,
+  author={Muthuvelan, Shreiya Ramaswamy and Maneesha},
+  booktitle={2026 International Conference on Emerging Smart Computing and Informatics (ESCI)}, 
+  title={The Aging Challenge: A Performance Evaluation on Baseline Face Recognition Models Under Cross Age Variation}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Protocols;HTTP;Mobile handsets;Communication systems;LoRa;Data communication;Convolutional neural networks;Machine intelligence;Machine learning;Statistical learning;Cross Age Verification;Face Recognition;Identification;Verification},
+  doi={10.1109/ESCI68015.2026.11493262}}
